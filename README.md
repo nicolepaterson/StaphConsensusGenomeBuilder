@@ -11,4 +11,4 @@ samtools
 bcftools
 gatk
 
-```usage: ./build_cons.sh -p path/to/fastq -o output.fasta```
+```usage: ./consensus.sh -p path/to/fastq -o output.fasta```
