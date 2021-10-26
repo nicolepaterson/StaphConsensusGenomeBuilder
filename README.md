@@ -8,5 +8,7 @@ fastp
 bowtie2
 samtools
 bcftools
+picard
+gatk
 
-```usage: ./consensus.sh -p path/to/fastq -o output.fasta```
+```usage: ./consensus_gatk.sh -p path/to/fastq -o output_prefix```
